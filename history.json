@@ -1,0 +1,39 @@
+{
+  "herb_解表药": [
+    "chenxiang",
+    "baixianpi"
+  ],
+  "herb_清热药": [
+    "bianxu",
+    "baibiandou"
+  ],
+  "herb_化痰止咳平喘药": [
+    "chaihu",
+    "chishizhi"
+  ],
+  "herb_活血化瘀药": [
+    "baijiezi",
+    "biejia"
+  ],
+  "herb_补虚药": [
+    "bohe",
+    "chishao"
+  ],
+  "herb_安神药": [
+    "chuanlianzi",
+    "chaihu"
+  ],
+  "herb_平肝息风药": [
+    "cishi",
+    "chuanxiong"
+  ],
+  "formulas": [
+    "andongsan",
+    "anzhongwan",
+    "anzhongguiqitang",
+    "anzhongsan"
+  ],
+  "teas": [
+    "葱白豆豉汤"
+  ]
+}
