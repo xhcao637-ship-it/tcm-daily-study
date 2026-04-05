@@ -9,7 +9,9 @@
     "bohe",
     "congbai",
     "bajitian",
-    "chuanbeimu"
+    "chuanbeimu",
+    "baizhi",
+    "baiwei"
   ],
   "herb_清热药": [
     "bianxu",
@@ -21,7 +23,9 @@
     "cebaiye",
     "bohe",
     "chishizhi",
-    "danshen"
+    "danshen",
+    "biejia",
+    "congbai"
   ],
   "herb_化痰止咳平喘药": [
     "chaihu",
@@ -33,7 +37,9 @@
     "cangerzi",
     "baiziren",
     "baijiezi",
-    "cheqianzi"
+    "cheqianzi",
+    "chenpi",
+    "chenxiang"
   ],
   "herb_活血化瘀药": [
     "baijiezi",
@@ -45,7 +51,9 @@
     "baifuzi",
     "chishao",
     "baiji",
-    "diyu"
+    "diyu",
+    "baijiangcao",
+    "buguzhi"
   ],
   "herb_补虚药": [
     "bohe",
@@ -57,7 +65,9 @@
     "biejia",
     "chenxiang",
     "daizheshi",
-    "chishizhi"
+    "chishizhi",
+    "bajitian",
+    "baimaogen"
   ],
   "herb_安神药": [
     "chuanlianzi",
@@ -69,7 +79,9 @@
     "daji",
     "dongchongxiacao",
     "chuanxiong",
-    "baimaogen"
+    "baimaogen",
+    "dangshen",
+    "bajitian"
   ],
   "herb_平肝息风药": [
     "cishi",
@@ -81,7 +93,9 @@
     "danshen",
     "chaihu",
     "banxia",
-    "digupi"
+    "digupi",
+    "baiji",
+    "cebaiye"
   ],
   "formulas": [
     "andongsan",
@@ -103,13 +117,18 @@
     "anheyinzi",
     "anchuanzhishengdan",
     "ansoutang",
-    "ansougao"
+    "ansougao",
+    "ancaotang",
+    "antusan",
+    "antutang",
+    "ankunzanyuwan"
   ],
   "teas": [
     "葱白豆豉汤",
     "桂圆红枣枸杞茶",
     "玫瑰花茶",
     "山楂麦芽水",
-    "金银花连翘茶"
+    "金银花连翘茶",
+    "桑叶菊花茶"
   ]
 }
