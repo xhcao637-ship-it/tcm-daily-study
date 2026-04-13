@@ -25,7 +25,9 @@
     "baidoukou",
     "aiye",
     "banxia",
-    "chaihu"
+    "chaihu",
+    "gegen",
+    "gouji"
   ],
   "herb_清热药": [
     "bianxu",
@@ -53,7 +55,9 @@
     "baiji",
     "chishao",
     "gualou",
-    "diyu"
+    "diyu",
+    "baifuzi",
+    "baimaogen"
   ],
   "herb_化痰止咳平喘药": [
     "chaihu",
@@ -81,7 +85,9 @@
     "ganjiang",
     "caodoukou",
     "aiye",
-    "houpo"
+    "houpo",
+    "gouteng",
+    "fangji"
   ],
   "herb_活血化瘀药": [
     "baijiezi",
@@ -109,7 +115,9 @@
     "bohe",
     "guizhi",
     "heshouwu",
-    "gouteng"
+    "gouteng",
+    "cheqianzi",
+    "ganjiang"
   ],
   "herb_补虚药": [
     "bohe",
@@ -137,7 +145,9 @@
     "chuanxiong",
     "dangshen",
     "hehuanpi",
-    "heshouwu"
+    "heshouwu",
+    "houpo",
+    "buguzhi"
   ],
   "herb_安神药": [
     "chuanlianzi",
@@ -165,7 +175,9 @@
     "biba",
     "guizhi",
     "gouqizi",
-    "heshouwu"
+    "heshouwu",
+    "danshen",
+    "chishao"
   ],
   "herb_平肝息风药": [
     "cishi",
@@ -193,7 +205,9 @@
     "dazao",
     "fuzi",
     "bohe",
-    "biejia"
+    "biejia",
+    "heshouwu",
+    "fangji"
   ],
   "formulas": [
     "andongsan",
@@ -247,7 +261,11 @@
     "anxixiangjian",
     "anxixiangjianwan",
     "anxixianggao",
-    "anjingwan_41800"
+    "anjingwan_41800",
+    "anjingbaomingdan",
+    "anbansan",
+    "anbantang",
+    "anzhenwuyousan"
   ],
   "teas": [
     "葱白豆豉汤",
@@ -262,6 +280,7 @@
     "丹参山楂茶",
     "枸杞菊花茶",
     "川贝雪梨水",
-    "陈皮生姜水"
+    "陈皮生姜水",
+    "生姜红糖水"
   ]
 }
