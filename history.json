@@ -29,7 +29,9 @@
     "gegen",
     "gouji",
     "fuzi",
-    "gancao"
+    "gancao",
+    "houpo",
+    "heshouwu"
   ],
   "herb_清热药": [
     "bianxu",
@@ -61,7 +63,9 @@
     "baifuzi",
     "baimaogen",
     "dazao",
-    "gegen"
+    "gegen",
+    "daizheshi",
+    "daji"
   ],
   "herb_化痰止咳平喘药": [
     "chaihu",
@@ -93,7 +97,9 @@
     "gouteng",
     "fangji",
     "fuling",
-    "cishi"
+    "cishi",
+    "guizhi",
+    "baidoukou"
   ],
   "herb_活血化瘀药": [
     "baijiezi",
@@ -125,7 +131,9 @@
     "cheqianzi",
     "ganjiang",
     "fangji",
-    "hehuanpi"
+    "hehuanpi",
+    "gouji",
+    "gancao"
   ],
   "herb_补虚药": [
     "bohe",
@@ -157,7 +165,9 @@
     "houpo",
     "buguzhi",
     "danshen",
-    "ganjiang"
+    "ganjiang",
+    "digupi",
+    "fuzi"
   ],
   "herb_安神药": [
     "chuanlianzi",
@@ -189,7 +199,9 @@
     "danshen",
     "chishao",
     "gouteng",
-    "huamupi"
+    "huamupi",
+    "baiguo",
+    "dayeyanjiecao"
   ],
   "herb_平肝息风药": [
     "cishi",
@@ -221,7 +233,9 @@
     "heshouwu",
     "fangji",
     "gancao",
-    "baimaogen"
+    "baimaogen",
+    "gouteng",
+    "bajitian"
   ],
   "formulas": [
     "andongsan",
@@ -283,9 +297,14 @@
     "anqitang",
     "anrantang",
     "andoutang",
-    "antongsan"
+    "antongsan",
+    "anmiansan",
+    "anmiantang",
+    "anshuidan",
+    "anshuisan"
   ],
   "teas": [
-    "罗汉果胖大海茶"
+    "罗汉果胖大海茶",
+    "薏米赤小豆水"
   ]
 }
